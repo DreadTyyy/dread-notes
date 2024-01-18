@@ -38,9 +38,7 @@ const NoteInput = ({ onManipulate }) => {
       </h2>
       <form
         onSubmit={onSubmitHandler}
-        className={`flex flex-col justify-center md:w-2/4 w-full ${
-          theme === "dark" ? "text-white" : "text-black"
-        }`}>
+        className={`flex flex-col justify-center md:w-2/4 w-full text-black`}>
         <CountWord titleWord={title} />
         <input
           type="text"
