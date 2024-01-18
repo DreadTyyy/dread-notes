@@ -82,7 +82,7 @@ function RegisterPage() {
             required
           />
         </div>
-        <button className="p-2 border rounded-md mb-4">Login</button>
+        <button className="p-2 border rounded-md mb-4">Register</button>
       </form>
       <p>
         Sudah punya akun?{" "}
