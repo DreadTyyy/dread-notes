@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import useInput from "../hooks/UseInput";
+import useInput from "../hooks/useInput";
 import { login } from "../utils/network-data";
 import PropTypes from "prop-types";
 

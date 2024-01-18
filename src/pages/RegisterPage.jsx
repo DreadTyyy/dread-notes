@@ -1,5 +1,5 @@
 import React from "react";
-import useInput from "../hooks/UseInput";
+import useInput from "../hooks/useInput";
 import { register } from "../utils/network-data";
 import { useNavigate, Link } from "react-router-dom";
 
